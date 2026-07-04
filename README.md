@@ -1,124 +1,193 @@
 <div align="center">
 
-# 💜 Hi 👋, I'm Anvita Chauhan
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:6C63FF,50:4F46E5,100:06B6D4&text=Hi%20👋%20I'm%20Anvita%20Chauhan&fontSize=45&fontAlignY=40&animation=fadeIn&fontColor=ffffff" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student;Full+Stack+Developer+%F0%9F%9A%80;AI+%26+MERN+Stack+Learner;Open+Source+Enthusiast;Always+Learning+Something+New+%F0%9F%92%9C" />
+# 👋 Hi, I'm **Anvita Chauhan**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=180&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontColor=fff&animation=twinkling"/>
+### 🚀 Engineering Student | Future Software Engineer | Building, Learning & Growing Every Day
 
-<img src="https://komarev.com/ghpvc/?username=AnvitaChauhan977&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=900&lines=Computer+Engineering+Student;Aspiring+Full+Stack+Developer;Learning+Data+Structures+%26+Algorithms;Building+Projects+Every+Day;Open+Source+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG"/>
 
-<img src="https://img.shields.io/github/followers/AnvitaChauhan977?logo=github&style=for-the-badge&color=blue"/>
-
-<img src="https://img.shields.io/github/stars/AnvitaChauhan977?style=for-the-badge&color=yellow"/>
+<p>
+<img src="https://komarev.com/ghpvc/?username=AnvitaChauhan977&label=Profile%20Views&color=6C63FF&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/AnvitaChauhan977?label=Followers&logo=github&style=for-the-badge&color=06B6D4"/>
+<img src="https://img.shields.io/badge/Status-Learning%20Everyday-success?style=for-the-badge"/>
+</p>
 
 </div>
 
 ---
 
-# 💫 About Me
+# 👩‍💻 About Me
 
-<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" width="340" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-🎓 B.Tech CSE Student
+✨ 3rd Year Engineering Student
 
-🌱 Currently learning **Advanced MERN Stack**
+💻 Passionate about Software Development
 
-🤖 Exploring **Artificial Intelligence**
+🌱 Currently learning **Data Structures & Algorithms**
 
-💻 Passionate about Web Development
+🌐 Exploring **Frontend & Full Stack Development**
 
-🚀 Love Building Real World Projects
+⚡ Interested in **Open Source Contributions**
 
-📚 Learning Something New Every Day
+🚀 Building projects to strengthen development skills
 
-🎯 Goal: **Become a Full Stack AI Engineer**
+🎯 Looking for **Internship Opportunities**
 
-⚡ Fun Fact:
-> I believe consistency beats talent.
+📚 Learning something new every day
+
+🤝 Always open to collaboration and learning
 
 ---
 
-# 🚀 Tech Stack
+# 🛠️ Tech Stack
 
-<p align="center">
+## 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,python,git,github,vscode,postman,firebase,tailwind,bootstrap,docker,linux,npm"/>
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript"/>
 
 </p>
 
 ---
 
-# 📚 Currently Learning
+## 🎨 Frontend
 
-```text
-JavaScript        ██████████████░░ 90%
+<p>
 
-React             ███████████░░░░ 80%
-
-Node.js           ██████████░░░░░ 75%
-
-MongoDB           █████████░░░░░░ 70%
-
-AI                ███████░░░░░░░░ 60%
-
-Machine Learning  ██████░░░░░░░░░ 50%
-```
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AnvitaChauhan977&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnvitaChauhan977&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## ⚙️ Backend
 
-<p align="center">
+<p>
 
-<img src="https://streak-stats.demolab.com?user=AnvitaChauhan977&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## 🗄️ Database
 
-<p align="center">
+<p>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+
+</p>
+
+---
+
+## ☁️ Tools & Platforms
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm"/>
+
+</p>
+
+---
+
+## 📖 Currently Learning
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,docker"/>
+
+</p>
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnvitaChauhan977&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AnvitaChauhan977&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnvitaChauhan977&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📊 Contribution Graph
+
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnvitaChauhan977&theme=tokyo-night&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🌱 Currently Learning
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AnvitaChauhan977&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
-</p>
+| 🚀 Topic | 📈 Progress |
+|----------|-------------|
+| 📚 Data Structures & Algorithms | 🌱 Learning |
+| 🌐 Full Stack Development | 🌱 Learning |
+| 🏗️ System Design Fundamentals | 🌱 Learning |
+| ☁️ Cloud Basics | 🌱 Learning |
+| 🔥 Git & GitHub | 🌱 Improving |
+| 🤝 Open Source Contributions | 🌱 Exploring |
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Project Showcase
 
-| Project | Tech |
-|---------|------|
-| 🤖 AI Resume Screener | MERN + AI |
-| 🌦 Weather App | HTML CSS JS |
-| 💬 Chat App | Node.js |
-| 🛒 E-Commerce | MERN |
-| 📋 Task Manager | MongoDB |
-| 🌐 Portfolio Website | React |
+## 🌐 Web Development Projects
+
+| Project | Description | Tech | GitHub | Live Demo |
+|---------|-------------|------|---------|-----------|
+| 💻 Portfolio Website | Personal responsive portfolio showcasing skills and projects | HTML, CSS, JavaScript | Coming Soon | Coming Soon |
+
+---
+
+## 🎓 Academic Projects
+
+| Project | Description | Tech | GitHub |
+|---------|-------------|------|---------|
+| 📚 Engineering Projects | Academic learning projects and assignments | Multiple Technologies | Coming Soon |
+
+---
+
+## 💡 Personal Projects
+
+| Project | Description | Tech | GitHub |
+|---------|-------------|------|---------|
+| 🚀 Practice Projects | Hands-on projects to improve development skills | MERN, JavaScript | Coming Soon |
+
+---
+
+## 🤝 Open Source
+
+| Project | Status |
+|----------|--------|
+| Community Contributions | 🌱 Exploring Open Source |
+
+---
+
+# 🏆 Achievements
+
+🏅 Completed technical learning courses
+
+📚 Continuously improving coding skills
+
+💻 Building projects consistently
+
+🌱 Learning modern development technologies
+
+🚀 Exploring open-source contributions
+
+🎯 Preparing for software engineering internships
 
 ---
 
@@ -126,76 +195,74 @@ Machine Learning  ██████░░░░░░░░░ 50%
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/anvita-chauhan-664b3732b/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:anvitachauhan44@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<a href="mailto:#">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/AnvitaChauhan977">
-<img src="https://skillicons.dev/icons?i=github"/>
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 💻 Random Dev Quote
+# 💬 Random Dev Quote
+
+<div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
-
-# 😂 Random Dev Meme
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
+</div>
 
 ---
 
 # 🐍 Contribution Snake
 
-```text
-⚠️ Enable this using GitHub Actions.
-```
+<div align="center">
 
-```yaml
-name: Generate Snake
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
-on:
-  schedule:
-    - cron: "0 */12 * * *"
+</div>
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
+---
 
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: AnvitaChauhan977
-          outputs: dist/github-contribution-grid-snake.svg
-```
+# 👀 Visitors
 
-Then display it with:
+<div align="center">
 
-```md
-<p align="center">
+<img src="https://komarev.com/ghpvc/?username=AnvitaChauhan977&label=Visitors&style=for-the-badge&color=6C63FF"/>
 
-<img src="https://raw.githubusercontent.com/AnvitaChauhan977/AnvitaChauhan977/output/github-contribution-grid-snake.svg"/>
+</div>
 
-</p>
-```
+---
+
+# 🚀 Developer Motivation
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&pause=1200&color=06B6D4&center=true&vCenter=true&width=900&lines=Keep+Learning.;Keep+Building.;Every+Project+Makes+You+Better.;Consistency+Beats+Perfection.;Future+Software+Engineer+In+Progress."/>
+
+</div>
 
 ---
 
 <div align="center">
 
-## 💜 Thanks for Visiting 💜
+### ⭐ *"Every expert was once a beginner. Keep learning, keep building, and never stop growing."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E100FF,100:7F00FF&height=120&section=footer"/>
-
-⭐ From **Anvita Chauhan**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6C63FF&height=120&section=footer"/>
 
 </div>
